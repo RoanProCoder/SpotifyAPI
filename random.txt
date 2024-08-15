@@ -1,0 +1,3 @@
+KSI
+No artist found with the name
+Something went wrong when searching for the artist!
